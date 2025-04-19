@@ -425,7 +425,7 @@ var Cat021v10 = StandardUAP{
 			},
 		},
 		{
-			FRN:         38,
+			FRN:         39,
 			DataItem:    "I021/250",
 			Description: "Mode S MB Data",
 			Type:        Repetitive,
