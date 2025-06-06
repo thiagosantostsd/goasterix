@@ -29,5 +29,6 @@ More about ASTERIX: [Eurocontrol asterix](https://www.eurocontrol.int/asterix)
 * [Parsing Json example](https://github.com/mokhtarimokhtar/goasterix/tree/main/examples/readfiletojson)
 
 ## Installation
-
+    
     go get github.com/mokhtarimokhtar/goasterix
+    go get github.com/thiagosantostsd/goasterix
